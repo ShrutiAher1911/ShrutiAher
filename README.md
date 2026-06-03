@@ -11,19 +11,19 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 I'm a **Full Stack Developer** from **Kannad, Chh. Sambhaji Nagar, Maharashtra** — specializing in the **MERN Stack** and passionate about building scalable, user-focused web applications.
 
-- 🏆 **Intern of the Month** @ Sumago Infotech (3-month Industrial Training)
-- 🚀 Built **StudyFlow** — a full-stack AI-powered productivity platform
-- 🌱 Currently deepening expertise in **React**, **Node.js**, **REST APIs**, and **system design**
-- 💼 Open to **internships** and **entry-level Full Stack / Frontend roles**
-- 📍 Proudly from Marathwada, coding for the world
+- **Intern of the Month** @ Sumago Infotech (3-month Industrial Training)
+- Built **StudyFlow** — a full-stack AI-powered productivity platform
+- Currently deepening expertise in **React**, **Node.js**, **REST APIs**, and **system design**
+- Open to **internships** and **entry-level Full Stack / Frontend roles**
+- Proudly from Marathwada, coding for the world
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 
@@ -54,33 +54,24 @@ I'm a **Full Stack Developer** from **Kannad, Chh. Sambhaji Nagar, Maharashtra**
 
 ---
 
-### 🌟 Flagship Project — StudyFlow
+###Flagship Project — StudyFlow
 
 > *A full-stack productivity platform built with the MERN Stack*
 
 | Feature | Tech Used |
 |---|---|
-| 🔐 Secure Authentication | JWT + bcrypt |
-| ⏱️ Pomodoro Focus Timer | React state management |
-| 📅 Event Scheduler + Email Reminders | Node.js + Nodemailer |
-| 🤖 AI Chatbot Integration | Groq, Gemini, OpenRouter APIs |
-| 🧠 Mind Maps | Interactive React components |
-| 📱 Responsive UI | Tailwind CSS |
-| 🚀 Deployment | Vercel (frontend) + Render (backend) |
+| Secure Authentication | JWT + bcrypt |
+| Pomodoro Focus Timer | React state management |
+| Event Scheduler + Email Reminders | Node.js + Nodemailer |
+| AI Chatbot Integration | Groq, Gemini, OpenRouter APIs |
+| Mind Maps | Interactive React components |
+| Responsive UI | Tailwind CSS |
+| Deployment | Vercel (frontend) + Render (backend) |
 
 [![StudyFlow Repo](https://img.shields.io/badge/View_Repo-StudyFlow-4A9EFF?style=for-the-badge&logo=github)](https://github.com/ShrutiAher1911/StudyFlow)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-47B47C?style=for-the-badge&logo=vercel)](https://study-flow-inky.vercel.app)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShrutiAher1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiAher1911&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
@@ -90,10 +81,10 @@ I'm a **Full Stack Developer** from **Kannad, Chh. Sambhaji Nagar, Maharashtra**
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Industrial Training Intern — Sumago Infotech** *(3 months)*
-- 🏆 Awarded **Intern of the Month**
+- Awarded **Intern of the Month**
 - Built REST APIs with Express.js and Node.js
 - Integrated MongoDB databases with Mongoose ODM
 - Implemented JWT Authentication for secure access
@@ -101,7 +92,7 @@ I'm a **Full Stack Developer** from **Kannad, Chh. Sambhaji Nagar, Maharashtra**
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <div align="center">
 
@@ -117,6 +108,6 @@ I'm a **Full Stack Developer** from **Kannad, Chh. Sambhaji Nagar, Maharashtra**
 
 *"First, solve the problem. Then, write the code."* — John Johnson ✨
 
-**💼 Open to internship and entry-level Full Stack / Frontend Developer roles**
+**Open to internship and entry-level Full Stack / Frontend Developer roles**
 
 </div>
