@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shruti+Aher+%F0%9F%91%8B;Full+Stack+MERN+Developer;Building+real-world+apps%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShrutiAher1911&color=4A9EFF&style=flat-square&label=Profile+Views)](https://github.com/ShrutiAher1911)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shrutiaher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/shruti-aher-106347358)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahershruti1911@gmail.com)
 
 </div>
