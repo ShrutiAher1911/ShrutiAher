@@ -54,7 +54,7 @@ I'm a **Full Stack Developer** from **Kannad, Chh. Sambhaji Nagar, Maharashtra**
 
 ---
 
-###Flagship Project — StudyFlow
+### Flagship Project — StudyFlow
 
 > *A full-stack productivity platform built with the MERN Stack*
 
@@ -70,14 +70,6 @@ I'm a **Full Stack Developer** from **Kannad, Chh. Sambhaji Nagar, Maharashtra**
 
 [![StudyFlow Repo](https://img.shields.io/badge/View_Repo-StudyFlow-4A9EFF?style=for-the-badge&logo=github)](https://github.com/ShrutiAher1911/StudyFlow)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-47B47C?style=for-the-badge&logo=vercel)](https://study-flow-inky.vercel.app)
-
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShrutiAher1911&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
