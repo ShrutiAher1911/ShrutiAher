@@ -5,7 +5,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShrutiAher1911&color=4A9EFF&style=flat-square&label=Profile+Views)](https://github.com/ShrutiAher1911)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shruti-aher-2746b1420)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahershruti1911@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)]([mailto:ahershruti1911@gmail.com](https://mail.google.com/mail/u/0/#inbox))
 
 </div>
 
@@ -89,7 +89,7 @@ I'm a **Full Stack Developer** from **Kannad, Chh. Sambhaji Nagar, Maharashtra**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-aher-2746b1420)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahershruti1911@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:ahershruti1911@gmail.com](https://mail.google.com/mail/u/0/#inbox))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShrutiAher1911)
 
 </div>
